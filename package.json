@@ -1,4 +1,11 @@
 {
+  "name": "bigbot",
+  "version": "1.0.0",
+  "description": "Bot Discord multi-fonctions (tickets + présence)",
+  "main": "bigBot.js",
+  "scripts": {
+    "start": "node bigBot.js"
+  },
   "dependencies": {
     "discord.js": "^14.19.1"
   }
