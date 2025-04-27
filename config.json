@@ -1,0 +1,18 @@
+{
+    "token": "MTM2NjAzMTcwNzYxODI4MzU2MA.G6_iXC.nu8NGfubhrchHGbq9c2VHzertjVvDeS-j9Ep5g",
+    "clientId": "1366031707618283560",
+    "guildId": "1338285550410399794",
+    
+    "staffRoleId": "1338285550439759955",
+    "ticketChannelId": "1338285550867709982",
+    "ticketCategoryId": "1366028876899291187",
+    
+    "presenceChannelId": "1338285550725234770",
+    "roleToMentionId": "1338285550439759956",
+    
+    "categories": {
+      "commandes": "Commandes",
+      "recrutement": "Recrutement",
+      "rendezvous": "Rendez-vous"
+    }
+  }  
